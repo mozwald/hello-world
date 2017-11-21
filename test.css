@@ -1,0 +1,20 @@
+p {
+  font-size: 16px;
+  font-family: 'Open Sans';
+}
+
+.bg-green {
+  background-color: #277727;
+}
+
+.navy-seals-img {
+  max-width: 100%;
+  /*width: 624px;
+  height: 414px;*/
+}
+
+@media screen and (min-width: 480px) {
+    body {
+        background-color: lightgreen;
+    }
+}
